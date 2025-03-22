@@ -4,7 +4,7 @@
 - 👀 I’m interested in the field of data science and software engineer that's why I'm currently studying it.
 - 📖 So far, the current programming languages I've known so far are Javascript, TypeScript, Python, Java, C++, PHP, and SQL
 
-# My Current Skills 
+# ⚒ My Current Skills 
 - ⚒ Tech Stacks: React Js, Vue Js, TypeScript, Javascript, Express JS, Node Js, MongoDB, Playwright, Vitest, Redux/Redux Toolkit
 - ⚙ Developer Tools: Github, Git, Visual Studio Code, Cursor, Sublime Text, Notepad++
   
