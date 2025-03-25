@@ -6,7 +6,7 @@
 
 # ⚒ My Current Stack and Tools
 - ⚒ Tech Stacks: React Js, Vue Js, TypeScript, Javascript, Express JS, Node Js, MongoDB, Playwright, Vitest, Redux/Redux Toolkit
-- ⚙ Developer Tools: Github, Git, Visual Studio Code, Cursor, Sublime Text, Notepad++
+- ⚙ Developer Tools: Github, Git, Postman, Insomia, Visual Studio Code, Cursor, Sublime Text, Notepad++
   
 
 <!---
