@@ -2,7 +2,7 @@
 - 💻 My current position at my work is **Associate Software Engineer**
 - ⚒ I'm currently working on some of my **MERN and python** projects!
 - 📃 with the help of their documentation
-- 👀 I’m interested in the field of data science and software engineer that's why I'm currently studying it.
+- 👀 I’m interested in the field of data science and software engineer (Front-End Development).
 
 # ⚒ My Current Stack and Tools
 - ⚒ Tech Stacks: React Js, Vue Js, TypeScript, Javascript, Express JS, Node Js, MongoDB, Playwright, Vitest, Redux/Redux Toolkit
