@@ -74,6 +74,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 ---
 
 ### ⚙ Developer Tools  
+<p>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -83,6 +84,8 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
   <img src="https://img.shields.io/badge/Cursor-3A76F0?style=flat" />
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepad%2B%2B&logoColor=black" />
+  
+</p>
 
 
 ---
