@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./your-banner.png" alt="Banner" />
+  <img src="./banner/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Anthony Frank Ordonez 👋</h1>
