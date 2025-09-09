@@ -3,7 +3,7 @@
   <img src="./your-banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Anthony Frank Ordonez 👋</h1>
 <h3 align="center">Software Engineer | Web Developer | Open Source Enthusiast</h3>
 
 ---
@@ -19,23 +19,56 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 
 ## ⚒ Technologies and Tools  
 
-### 🖥 Tech Stacks  
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🖥 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 📚 Frameworks & Libraries  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
 </p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🗄 Databases  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🛠 Testing  
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ### ⚙ Developer Tools  
 <p>
@@ -58,7 +91,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-  
+
 
 <!---
 AnthonyFrank-Ordonez/AnthonyFrank-Ordonez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
