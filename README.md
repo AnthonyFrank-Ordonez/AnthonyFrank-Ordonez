@@ -84,7 +84,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
   <img src="https://img.shields.io/badge/Cursor-3A76F0?style=flat" />
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepad%2B%2B&logoColor=black" />
-  
+  <img src="https://img.shields.io/badge/Coolify-0C1C2D?style=flat&logo=coolify&logoColor=white" />  
 </p>
 
 
@@ -93,7 +93,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 ## 🌐 Connect With Me  
 
 
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
+  <a href="https://portfolio.afordonez.com/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
