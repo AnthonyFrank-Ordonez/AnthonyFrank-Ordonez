@@ -21,18 +21,15 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 <td width="50%" valign="top">
 
 ### 🖥 Programming Languages  
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Frameworks & Libraries  
-
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -41,8 +38,6 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" /
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
-
-
 </td>
 </tr>
 
@@ -62,11 +57,8 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 <td width="50%" valign="top">
 
 ### 🛠 Testing  
-
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
-
-
 </td>
 </tr>
 </table>
@@ -75,7 +67,6 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 
 ### ⚙ Developer Tools  
 <p>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -91,11 +82,10 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 ---
 
 ## 🌐 Connect With Me  
-
-
   <a href="https://portfolio.afordonez.com/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ordonezanthonyfrank/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anthony-frank-ordo%C3%B1ez-96b0a02a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4A8FFF?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anthonyfrankaordonez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
 <!---
