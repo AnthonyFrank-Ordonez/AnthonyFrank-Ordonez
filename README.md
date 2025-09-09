@@ -40,6 +40,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-E4405F?style=plastic&logo=uikit&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-A451D6?style=plastic&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fabric.JS-06B6D4?style=plastic&logo=fabricjs&logoColor=white" />
 </td>
 </tr>
 
