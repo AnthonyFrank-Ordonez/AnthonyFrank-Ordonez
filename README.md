@@ -3,9 +3,6 @@
   <img src="./banner/banner.png" alt="Banner" />
 </p>
 
-<h1 align="left">Hi, I'm Anthony Frank Ordonez 👋</h1>
-<h3 align="left">Software Engineer | Web Developer | Open Source Enthusiast</h3>
-
 ---
 
 ## 💡 About Me  
@@ -21,7 +18,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### 🖥 Programming Languages  
 <p>
@@ -30,7 +27,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 </p>
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### 📚 Frameworks & Libraries  
 <p>
@@ -44,7 +41,10 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 </p>
 
 </td>
-<td align="center" width="25%" valign="top">
+</tr>
+
+<tr>
+<td align="center" width="50%" valign="top">
 
 ### 🗄 Databases  
 <p>
@@ -53,7 +53,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 </p>
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### 🛠 Testing  
 <p>
