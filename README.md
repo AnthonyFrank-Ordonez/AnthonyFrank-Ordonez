@@ -16,7 +16,7 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
 
 ## ⚒ Technologies and Tools  
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
