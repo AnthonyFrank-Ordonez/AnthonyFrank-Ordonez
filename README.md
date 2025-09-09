@@ -3,8 +3,8 @@
   <img src="./banner/banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Anthony Frank Ordonez 👋</h1>
-<h3 align="center">Software Engineer | Web Developer | Open Source Enthusiast</h3>
+<h1 align="left">Hi, I'm Anthony Frank Ordonez 👋</h1>
+<h3 align="left">Software Engineer | Web Developer | Open Source Enthusiast</h3>
 
 ---
 
