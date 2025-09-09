@@ -38,6 +38,8 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" /
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-E4405F?style=plastic&logo=uikit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-A451D6?style=plastic&logo=prisma&logoColor=white" />
 </td>
 </tr>
 
@@ -85,7 +87,6 @@ When I’m not coding, you’ll probably find me reading, gaming, or experimenti
   <a href="https://portfolio.afordonez.com/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
   <a href="https://www.instagram.com/ordonezanthonyfrank/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anthony-frank-ordo%C3%B1ez-96b0a02a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4A8FFF?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anthonyfrankaordonez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
 <!---
